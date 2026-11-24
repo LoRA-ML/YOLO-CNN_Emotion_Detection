@@ -1,6 +1,6 @@
 # Reconnaissance d'expressions faciales avec un CNN
 
-Ce projet consiste à construire un réseau de neurones convolutif (CNN) avec Keras, capable de reconnaître l'expression d'un visage parmi 7 émotions. Le classifieur obtenu est ensuite branché sur un détecteur de visages YOLO pour analyser plusieurs visages dans une image, puis dans une vidéo.
+Ce projet consiste à construire un réseau de neurones convolutif (CNN) avec Keras, capable de reconnaître l'expression d'un visage parmi 7 émotions. Le classifieur obtenu est ensuite branché sur un détecteur de visages YOLO pour analyser plusieurs visages dans une image, puis dans une vidéo à l'aide de ffmpeg.
 
 Tout le travail et les détails le concernant se trouvent dans le notebook [emotion_classifier_cnn.ipynb](emotion_classifier_cnn.ipynb), prévu pour être exécuté sur Google Colab.
 
